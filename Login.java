@@ -1,3 +1,5 @@
+public class Login
+{
 public static void main(String args[])
 	{
 	for (int i=1;i<=10;i++)
@@ -8,3 +10,4 @@ public static void main(String args[])
 	System.out.println("Team Farrah & Heena");
 	System.out.println("outside loop message - end code");
 	}
+}
